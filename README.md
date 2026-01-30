@@ -3,6 +3,7 @@
 
 This repository serves as a consolidated collection of all my professional certificates across **Data Analytics, Data Science, Programming, Operations, and Technical Domains**.  
 It is designed to provide recruiters, collaborators, and clients with a single, organized place to verify my credentials.
+
 [Certificates](certificates.md)
 
 
